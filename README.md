@@ -1,2 +1,2 @@
 # SmartTodos
-Application for organizing tasks and reminders
+Mobile app for organizing tasks and reminders
